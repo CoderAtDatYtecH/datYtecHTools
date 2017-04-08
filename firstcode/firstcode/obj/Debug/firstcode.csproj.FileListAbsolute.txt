@@ -1,0 +1,6 @@
+D:\GitHubRepo\datYtecHTools\firstcode\firstcode\bin\Debug\firstcode.exe.config
+D:\GitHubRepo\datYtecHTools\firstcode\firstcode\bin\Debug\firstcode.exe
+D:\GitHubRepo\datYtecHTools\firstcode\firstcode\bin\Debug\firstcode.pdb
+D:\GitHubRepo\datYtecHTools\firstcode\firstcode\obj\Debug\firstcode.csprojResolveAssemblyReference.cache
+D:\GitHubRepo\datYtecHTools\firstcode\firstcode\obj\Debug\firstcode.exe
+D:\GitHubRepo\datYtecHTools\firstcode\firstcode\obj\Debug\firstcode.pdb
